@@ -2,6 +2,8 @@
 Simple API server to expose a Doctor List API for our front-end application to present the information to customers
 
 # Installation & Use:
+1) Install dependencies: github pip install -r requirements.txt
+2) Start the server using app.py
 
 # Assumptions
 1) API will return json data output that can be consumed by the client for presenting information to the customers
