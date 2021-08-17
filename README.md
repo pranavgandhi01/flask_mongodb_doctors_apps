@@ -32,13 +32,13 @@ Main benifits we achieve:
  > For data serialization / Deserialization
 
 # Potential Improvement: 
- > Using middleware like CORS
- > Adding authentication & authorization and defining api entitlements
- > Integration tests
- > Confiuguation management - Swagger/ Yaml
- > Eventing - lazy processing of bulk inserts
- > Integration with logstash, kibana for analytics
- > Integration with AI tools for fast querying
+ 1) Using middleware like CORS
+ 2) Adding authentication & authorization and defining api entitlements
+ 3) Integration tests
+ 4) Confiuguation management - Swagger/ Yaml
+ 5) Eventing - lazy processing of bulk inserts
+ 6) Integration with logstash, kibana for analytics
+ 7) Integration with AI tools for fast querying
  
 
 
