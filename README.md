@@ -16,7 +16,7 @@ Please check requirements.txt
 1) flask: 
  > Microfamework for simplicity and easy for the current usecase.
 2) pymongo: 
- > MongoDB MongoDB as a persistent, searchable repository of Python dictionaries suits the purpose of fast search 
+ > MongoDB as a persistent, searchable repository of Python dictionaries suits the purpose of fast search 
 Main benifits we achieve:
  > JSON representation of data documents / industy standard
  > Easy add / change new attribute
@@ -34,11 +34,11 @@ Main benifits we achieve:
 # Potential Improvement: 
  1) Using middleware like CORS
  2) Adding authentication & authorization and defining api entitlements
- 3) Integration tests
- 4) Confiuguation management - Swagger/ Yaml
- 5) Eventing - lazy processing of bulk inserts
- 6) Integration with logstash, kibana for analytics
- 7) Integration with AI tools for fast querying
+ 3) Integration tests and other comprehensive tests
+ 4) App, Api Auth, Security confiuguation management
+ 5) Eventing & Caching - lazy processing of bulk inserts
+ 7) Integration with logstash, kibana for analytics
+ 8) Integration with AI tools for fast querying
  
 
 
